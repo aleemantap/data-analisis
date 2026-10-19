@@ -1,0 +1,36 @@
+# ===== Core Data Analysis =====
+pandas>=2.0.0
+numpy>=1.24.0
+
+# ===== Visualization =====
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# ===== Machine Learning =====
+scikit-learn>=1.3.0
+
+# ===== Notebook Environment =====
+jupyter>=1.0.0
+notebook>=7.0.0
+ipykernel>=6.25.0
+
+# ===== Dashboard / Deployment =====
+streamlit>=1.28.0
+
+# ===== Optional (uncomment sesuai kebutuhan project) =====
+# plotly>=5.17.0            # visualisasi interaktif
+# openpyxl>=3.1.0           # baca/tulis file Excel
+# sqlalchemy>=2.0.0         # koneksi database
+# beautifulsoup4>=4.12.0    # web scraping
+# requests>=2.31.0          # HTTP request
+# scipy>=1.11.0             # statistik lanjutan
+# xgboost>=2.0.0            # model ML lanjutan
+# lightgbm>=4.0.0           # model ML lanjutan
+
+
+
+# Buat venv
+#python -m venv venv
+
+# Aktifkan
+#venv\Scripts\Activate.ps1
